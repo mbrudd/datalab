@@ -1,0 +1,10 @@
+---
+title: "About"
+description: |
+  This is the online home of the 2021 Sewanee Summer Data Institute, where you can find training materials, keynote presentations, and other resources.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

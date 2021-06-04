@@ -1,0 +1,15 @@
+---
+title: "2021 Summer Data Institute"
+description: |
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+Welcome! Please use the links above to access training materials, recorded keynote presentations, and other resources. 

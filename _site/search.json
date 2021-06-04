@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "This is the online home of the 2021 Sewanee Summer Data Institute, where you can find training materials, keynote presentations, and other resources.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-04T15:08:15-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "2021 Summer Data Institute",
+      "author": [],
+      "contents": "\nWelcome! Please use the links above to access training materials, recorded keynote presentations, and other resources.\n\n\n\n",
+      "last_modified": "2021-06-04T15:08:16-05:00"
+    },
+    {
+      "path": "keynotes.html",
+      "title": "Keynote Presentations",
+      "description": "Information about speakers and links to recorded presentations",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-04T15:08:16-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "description": "Information about projects for the 2021 Sewanee Summer Data Institute",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-04T15:08:17-05:00"
+    },
+    {
+      "path": "training.html",
+      "title": "Training",
+      "description": "Data science training resources for the 2021 Sewanee Summer Data Institute",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-04T15:08:17-05:00"
+    }
+  ],
+  "collections": []
+}

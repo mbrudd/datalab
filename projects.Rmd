@@ -1,0 +1,10 @@
+---
+title: "Projects"
+description: |
+  Information about projects for the 2021 Sewanee Summer Data Institute
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

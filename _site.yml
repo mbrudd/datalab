@@ -1,0 +1,16 @@
+name: "datalab"
+title: "Sewanee DataLab"
+description: |
+  This is the online home of the 2021 Sewanee Summer Data Institute, where you can find training materials, keynote presentations, and other resources.
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Training"
+      href: training.html
+    - text: "Keynotes"
+      href: keynotes.html
+    - text: "Projects"
+      href: projects.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
