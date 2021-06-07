@@ -8,7 +8,7 @@ description: |
 - analyze carbon sequestration data from farms in Haiti, building on work directed by Professor Deb McGrath and others (Partner:  [Zanmi Agricole](https://haiti.sewanee.edu/category/zanmi-agrikol/))
 - collaborate with Professor Pradip Malde to apply machine learning techniques to curate photographic evidence of the impact of Sewanee's work in Haiti  (Partner: [Zanmi Foto](https://haiti.sewanee.edu/viewfinder/))
 - collaborate with Stephen Alvarez ([Ancient Art Archive](https://ancientartarchive.org/)) to apply machine learning techniques to curate photographic evidence of cave art to answer questions of types and authorship of cave art in Utah
-- analyze data on local ambulatory ER use to identify opportunities for improving medical care on the South Cumberland Plateau (Partner: [South Cumberland Health Network](https://www.facebook.com/southcumberlandplateauhealthnetwork))
+- analyze data on local ambulatory ER use to identify opportunities for improving medical care on the South Cumberland Plateau (Partner: South Cumberland Health Network)
 - analyze Tennessee Department of Health’s public health data to demonstrate cost-effectiveness of and possible harm reduction of free syringe-exchange programs in rural counties experiencing the opioid crisis
 - collaborate with the [Data Science Center at Meharry Medical College](https://www.mmc.edu/research/centers/research-centers/data_science_center/index.html) to analyze Covid testing and vaccination data from Nashville church clinics 
 - collaborate with [Thrive Regional Partnership](https://www.thriveregionalpartnership.org/) to create 
