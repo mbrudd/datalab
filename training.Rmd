@@ -1,10 +1,14 @@
 ---
-title: "Training"
+title: "Training resources"
 description: |
-  Data science training resources for the 2021 Sewanee Summer Data Institute
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+### Main curriculum
 
+- [DataBOOM](http://www.datascience.pizza/)
+
+### Zoom recordings
+
+- Week 1
+  - [Monday morning, 6/7/21](https://sewanee-edu.zoom.us/rec/share/4duWw4RS4XQgEPojdWV4ZBYf4yj5I6itEjoBQUJPiETL5_F9Ycy45bIYqm0TZFIh.JvWdOs-coArve9xc) : opening remarks (Jim Peterman, Joe Brew); getting started with data science and visualization
+  - [Monday afternoon, 6/7/21](https://sewanee-edu.zoom.us/rec/share/fCr9YKlRcTLZXFahgOBmeXcf4ITQ01E0WnPdawzd2dF-i9lp8CF0DQDZE2N2QOIg.fi8mmVJSKT4PREM1) : introduction to [R](https://cran.r-project.org/), [RStudio](https://www.rstudio.com/), and R scripts
