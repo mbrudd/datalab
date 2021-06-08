@@ -6,14 +6,14 @@
       "description": "This is the online home of the 2021 Sewanee Summer Data Institute, where you can find training materials, keynote presentations, and other resources.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-07T16:50:49-05:00"
+      "last_modified": "2021-06-08T12:21:03-05:00"
     },
     {
       "path": "index.html",
       "title": "2021 Summer Data Institute",
       "author": [],
       "contents": "\nWelcome! Please use the links above to access training materials, recorded keynote presentations, and other resources.\n\n\n\n",
-      "last_modified": "2021-06-07T16:50:49-05:00"
+      "last_modified": "2021-06-08T12:21:04-05:00"
     },
     {
       "path": "keynotes.html",
@@ -21,21 +21,21 @@
       "description": "Information about speakers and links to recorded presentations",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-07T16:50:50-05:00"
+      "last_modified": "2021-06-08T12:21:04-05:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nProjects for the 2021 Sewanee Summer Data Institute\nanalyze carbon sequestration data from farms in Haiti, building on work directed by Professor Deb McGrath and others (Partner: Zanmi Agricole)\ncollaborate with Professor Pradip Malde to apply machine learning techniques to curate photographic evidence of the impact of Sewanee’s work in Haiti (Partner: Zanmi Foto)\ncollaborate with Stephen Alvarez (Ancient Art Archive) to apply machine learning techniques to curate photographic evidence of cave art to answer questions of types and authorship of cave art in Utah\nanalyze data on local ambulatory ER use to identify opportunities for improving medical care on the South Cumberland Plateau (Partner: South Cumberland Health Network)\nanalyze Tennessee Department of Health’s public health data to demonstrate cost-effectiveness of and possible harm reduction of free syringe-exchange programs in rural counties experiencing the opioid crisis\ncollaborate with the Data Science Center at Meharry Medical College to analyze Covid testing and vaccination data from Nashville church clinics\ncollaborate with Thrive Regional Partnership to create\na public-facing geospatial web application that catalogs current broadband assets by category (e.g. service providers, infrastructure, public computer centers, digital literacy programs)\na back-end data input sheet that includes program descriptions, links, points of contact, etc.\na summary report of community connectivity findings across the region.\n\n",
-      "last_modified": "2021-06-07T16:50:51-05:00"
+      "last_modified": "2021-06-08T12:21:05-05:00"
     },
     {
       "path": "training.html",
       "title": "Training resources",
       "author": [],
-      "contents": "\nMain curriculum\nDataBOOM\nZoom recordings\nWeek 1\nMonday morning, 6/7/21 : opening remarks (Jim Peterman, Joe Brew); getting started with data science and visualization\nMonday afternoon, 6/7/21 : introduction to R, RStudio, and R scripts\n\n",
-      "last_modified": "2021-06-07T16:50:51-05:00"
+      "contents": "\nMain curriculum\nDataBOOM\nZoom recordings\nWeek 1\nMonday morning, 6/7/21 : opening remarks (Jim Peterman, Joe Brew); getting started with data science and visualization\nMonday afternoon, 6/7/21 : introduction to R, RStudio, and R scripts\nTuesday morning, 6/8/21 : practice with scripts, data structures, and built-in functions\n\n",
+      "last_modified": "2021-06-08T12:21:06-05:00"
     }
   ],
   "collections": []
