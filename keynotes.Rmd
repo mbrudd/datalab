@@ -4,7 +4,7 @@ description: |
   [Petya Grady](#petya) &nbsp; `r fontawesome::fa("chalkboard")` &nbsp; [Elizabeth Ann Stringer](#elizabeth-ann) &nbsp; `r fontawesome::fa("chalkboard")` &nbsp; Rayid Ghani &nbsp; `r fontawesome::fa("chalkboard")` &nbsp; Jurnell Cockhren
 ---
 
-### Petya Grady &nbsp; [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/petyagrady/) &nbsp; [`r fontawesome::fa("twitter")`](https://twitter.com/petyagrady) &nbsp; [`r fontawesome::fa("instagram")`](https://www.instagram.com/petyagrady/) {#petya}
+### Petya Grady &nbsp; &nbsp; [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/petyagrady/) &nbsp; &nbsp; [`r fontawesome::fa("twitter")`](https://twitter.com/petyagrady) &nbsp; &nbsp; [`r fontawesome::fa("instagram")`](https://www.instagram.com/petyagrady/) {#petya}
 #### Innovation Manager, ServiceMaster/Terminix & Co-Founder of CodeCrew 
 
 Petya joined ServiceMaster (now Terminix) in 2016 where she is responsible for driving organizational alignment on innovation initiatives. She’s a founding member of the ServiceMaster Innovation Council and has been instrumental in establishing ServiceMaster’s innovation strategy and its tactical implementation. Prior to ServiceMaster, Petya was with Lokion Interactive where she worked on customer experience strategy and user experience design for clients such as American Home Shield, FedEx, Hilton, Smith & Nephew and St. Jude Children’s Cancer Research Hospital. Petya’s background and experience allow her to bring an international perspective into her work. A native of Bulgaria, she began her career as a Project Manager in the Sofia offices of Dynamo Software (previously, Netage Solutions) where she led teams to successfully implement multi-lingual projects for an array of international clients.
@@ -16,7 +16,7 @@ Petya holds a B.A. from Sewanee: The University of the South and an M.A from Pen
 - Talk: Wednesday, June 9th at 1 p.m.
 - [Recording of presentation](https://sewanee-edu.zoom.us/rec/share/s1-pJlZd2buMbu7ztOEh_auzlIxJMQelyZW76X8O-KPXBgQFkHPuxKPsMGI-Zk5K.NRZRS574htqOzFz9?startTime=1623261337000)
 
-### Elizabeth Ann Stringer {#elizabeth-ann}
+### Elizabeth Ann Stringer &nbsp; &nbsp; [`r fontawesome::fa("linkedin")`](http://www.linkedin.com/in/Elizabeth-Ann-Stringer) {#elizabeth-ann}
 
 Elizabeth Ann Stringer is the Chief Scientific Officer of Nashville Biosciences (NashBio), a for-profit subsidiary of the Vanderbilt University Medical Center (VUMC). NashBio is a unique data and analytics-driven biotech company that partners with pharmaceutical, diagnostics and other life sciences companies to drive the discovery and development of new therapeutics and diagnostics by leveraging VUMC’s unparalleled genomic and bioinformatics resources. Elizabeth Ann oversees client partnerships and leads NashBio’s scientific and clinical teams on successful project execution.
 
