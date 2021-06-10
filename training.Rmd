@@ -16,4 +16,5 @@ description: |
   - [Tuesday afternoon, 6/8/21](https://sewanee-edu.zoom.us/rec/share/9yOB5Bci1kGo2yoHi4-5YjHRVosIuR53TjQYClaW_Y6ASHelttQuYZqqqiKLv1C3.768w5x1ZUJgs0MJd) : working with vectors, built-in functions, `NA`s, and `meh`s
   - [Wednesday morning, 6/9/21](https://sewanee-edu.zoom.us/rec/share/xLhGumXryEqDQQReK2Ad7yv-nuze9tZrPY1Ah3ToGuEy3S3FGCmHKvak9cicpi3V.YtmpxY6DIh1Tbjc6?startTime=1623247053000) : working with packages and `data.frame`s
   - [Wednesday afternoon, 6/9/21](https://sewanee-edu.zoom.us/rec/share/s1-pJlZd2buMbu7ztOEh_auzlIxJMQelyZW76X8O-KPXBgQFkHPuxKPsMGI-Zk5K.NRZRS574htqOzFz9?startTime=1623267257000) : `data.frame`s, piping with `%>%`, and `dplyr` magic
-  
+  - [Thursday morning, 6/10/21](https://sewanee-edu.zoom.us/rec/share/dvCRD6FWirGw8-qh6HSgWG07Kb1bUdFpWaBuDeNjBwnw4Il_q3WNxnrW57zN_pil.NzCivuI_21wrvnnM) : More with `data.frame`s and `dplyr` magic
+  - [Thursday afternoon, 6/10/21](https://sewanee-edu.zoom.us/rec/share/hzSTtWZeK1FCMe9la0uDBOXzpVnnV5gqkeWF5bXFR31dOqP4gZIfMCx0I13SEToG.-KwqTQHQ--pETKAX) : Presentation by Deb McGrath on carbon sequestration work in Haiti; the Belmont principles and data ethics
