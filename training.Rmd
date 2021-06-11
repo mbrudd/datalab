@@ -18,3 +18,4 @@ description: |
   - [Wednesday afternoon, 6/9/21](https://sewanee-edu.zoom.us/rec/share/s1-pJlZd2buMbu7ztOEh_auzlIxJMQelyZW76X8O-KPXBgQFkHPuxKPsMGI-Zk5K.NRZRS574htqOzFz9?startTime=1623267257000) : `data.frame`s, piping with `%>%`, and `dplyr` magic
   - [Thursday morning, 6/10/21](https://sewanee-edu.zoom.us/rec/share/dvCRD6FWirGw8-qh6HSgWG07Kb1bUdFpWaBuDeNjBwnw4Il_q3WNxnrW57zN_pil.NzCivuI_21wrvnnM) : More with `data.frame`s and `dplyr` magic
   - [Thursday afternoon, 6/10/21](https://sewanee-edu.zoom.us/rec/share/hzSTtWZeK1FCMe9la0uDBOXzpVnnV5gqkeWF5bXFR31dOqP4gZIfMCx0I13SEToG.-KwqTQHQ--pETKAX) : Presentation by Deb McGrath on carbon sequestration work in Haiti; the Belmont principles and data ethics
+  - [Friday morning, 6/11/21](https://sewanee-edu.zoom.us/rec/share/WfExudcKWW0__daU04RwYdR725rhwU4HTkyVZoi26_AkwuGqxt19OD27ND_kx1AX.KenziwbqM7yKpf8Q) : more on data ethics, working with `dplyr`
