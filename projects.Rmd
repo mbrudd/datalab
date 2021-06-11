@@ -6,6 +6,7 @@ description: |
 ### Projects for the 2021 Sewanee Summer Data Institute
 
 - analyze carbon sequestration data from farms in Haiti, building on work directed by Professor Deb McGrath and others (Partner:  [Zanmi Agrikol](https://haiti.sewanee.edu/category/zanmi-agrikol/))
+  - [Slide presentation by Professor Deborah McGrath](McGrath_Data_Institute_2021.pdf)
 - collaborate with Professor Pradip Malde to apply machine learning techniques to curate photographic evidence of the impact of Sewanee's work in Haiti  (Partner: [Zanmi Foto](https://haiti.sewanee.edu/viewfinder/))
 - collaborate with Stephen Alvarez ([Ancient Art Archive](https://ancientartarchive.org/)) to apply machine learning techniques to curate photographic evidence of cave art to answer questions of types and authorship of cave art in Utah
 - analyze data on local ambulatory ER use to identify opportunities for improving medical care on the South Cumberland Plateau (Partner: South Cumberland Health Network)
