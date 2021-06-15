@@ -1,15 +1,20 @@
 ---
 title: "Training resources"
 description: |
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
 ---
 
-### Main curriculum
+## Main curriculum
 
 - [DataBOOM](http://www.datascience.pizza/)
 
-### Zoom recordings
+## Zoom recordings
 
-- Week 1
+### Week 1
+
   - [Monday morning, 6/7/21](https://sewanee-edu.zoom.us/rec/share/4duWw4RS4XQgEPojdWV4ZBYf4yj5I6itEjoBQUJPiETL5_F9Ycy45bIYqm0TZFIh.JvWdOs-coArve9xc) : opening remarks (Jim Peterman, Joe Brew); getting started with data science and visualization
   - [Monday afternoon, 6/7/21](https://sewanee-edu.zoom.us/rec/share/fCr9YKlRcTLZXFahgOBmeXcf4ITQ01E0WnPdawzd2dF-i9lp8CF0DQDZE2N2QOIg.fi8mmVJSKT4PREM1) : introduction to [R](https://cran.r-project.org/), [RStudio](https://www.rstudio.com/), and R scripts
   - [Tuesday morning, 6/8/21](https://sewanee-edu.zoom.us/rec/share/E-nWurvcCcTm5AMXgWpMFIsl4LKeQl7rSmA19-6b5URpOEIvKT2mXtbR2VnWb051.J21rNa681l67X9V8) : practice with scripts, data structures, and built-in functions
@@ -19,3 +24,9 @@ description: |
   - [Thursday morning, 6/10/21](https://sewanee-edu.zoom.us/rec/share/dvCRD6FWirGw8-qh6HSgWG07Kb1bUdFpWaBuDeNjBwnw4Il_q3WNxnrW57zN_pil.NzCivuI_21wrvnnM) : More with `data.frame`s and `dplyr` magic
   - [Thursday afternoon, 6/10/21](https://sewanee-edu.zoom.us/rec/share/hzSTtWZeK1FCMe9la0uDBOXzpVnnV5gqkeWF5bXFR31dOqP4gZIfMCx0I13SEToG.-KwqTQHQ--pETKAX) : Presentation by Deb McGrath on carbon sequestration work in Haiti; the Belmont principles and data ethics
   - [Friday morning, 6/11/21](https://sewanee-edu.zoom.us/rec/share/WfExudcKWW0__daU04RwYdR725rhwU4HTkyVZoi26_AkwuGqxt19OD27ND_kx1AX.KenziwbqM7yKpf8Q) : more on data ethics, working with `dplyr`
+  
+### Week 2
+
+  - [Monday morning, 6/14/21](https://sewanee-edu.zoom.us/rec/share/NTqs8kLxJ5sRNjejGnlPIPrYNmSP6s2sqGVqoCZiC_EuSO0ZkYE8JfKe-Ni5FyT_.GLznNa6wsZxWCdQE) : group work
+  - [Monday afternoon, 6/14/21](https://sewanee-edu.zoom.us/rec/share/UyCSrx-U9WRownUYtFZ1FjqdWyiyS7b_YMZBwGRLlawcHmdHJh6X3XK_1lHBIBCR.LeGMidbsWkaXI_u_) : getting started with `ggplot`
+  - [Tuesday morning, 6/15/21](https://sewanee-edu.zoom.us/rec/share/eO76cDTtYFDUTwb_Q9s70Fv56-afHNK19yM0UthQ8MbOcrRiqOKeC_M6U-8K7Cw.HTDoNfLadHxb9ZSu) : more with `ggplot` ; presentation by Pradip Malde and Stephen Alvarez on computational photography projects

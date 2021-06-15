@@ -1,10 +1,14 @@
 ---
 title: "Keynote Presentations"
 description: |
-  [Petya Grady](#petya) &nbsp; `r fontawesome::fa("chalkboard")` &nbsp; [Elizabeth Ann Stringer](#elizabeth-ann) &nbsp; `r fontawesome::fa("chalkboard")` &nbsp; Rayid Ghani &nbsp; `r fontawesome::fa("chalkboard")` &nbsp; Jurnell Cockhren
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
 ---
 
-### Petya Grady &nbsp; &nbsp; [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/petyagrady/) &nbsp; &nbsp; [`r fontawesome::fa("twitter")`](https://twitter.com/petyagrady) &nbsp; &nbsp; [`r fontawesome::fa("instagram")`](https://www.instagram.com/petyagrady/) {#petya}
+## Petya Grady &nbsp; [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/petyagrady/)
 #### Innovation Manager, ServiceMaster/Terminix & Co-Founder of CodeCrew 
 
 Petya joined ServiceMaster (now Terminix) in 2016 where she is responsible for driving organizational alignment on innovation initiatives. She’s a founding member of the ServiceMaster Innovation Council and has been instrumental in establishing ServiceMaster’s innovation strategy and its tactical implementation. Prior to ServiceMaster, Petya was with Lokion Interactive where she worked on customer experience strategy and user experience design for clients such as American Home Shield, FedEx, Hilton, Smith & Nephew and St. Jude Children’s Cancer Research Hospital. Petya’s background and experience allow her to bring an international perspective into her work. A native of Bulgaria, she began her career as a Project Manager in the Sofia offices of Dynamo Software (previously, Netage Solutions) where she led teams to successfully implement multi-lingual projects for an array of international clients.
@@ -16,7 +20,7 @@ Petya holds a B.A. from Sewanee: The University of the South and an M.A from Pen
 - Talk: Wednesday, June 9th at 1 p.m.
 - [Recording of presentation](https://sewanee-edu.zoom.us/rec/share/s1-pJlZd2buMbu7ztOEh_auzlIxJMQelyZW76X8O-KPXBgQFkHPuxKPsMGI-Zk5K.NRZRS574htqOzFz9?startTime=1623261337000)
 
-### Elizabeth Ann Stringer &nbsp; &nbsp; [`r fontawesome::fa("linkedin")`](http://www.linkedin.com/in/Elizabeth-Ann-Stringer) {#elizabeth-ann}
+## Elizabeth Ann Stringer &nbsp; [`r fontawesome::fa("linkedin")`](http://www.linkedin.com/in/Elizabeth-Ann-Stringer)
 
 Elizabeth Ann Stringer is the Chief Scientific Officer of Nashville Biosciences (NashBio), a for-profit subsidiary of the Vanderbilt University Medical Center (VUMC). NashBio is a unique data and analytics-driven biotech company that partners with pharmaceutical, diagnostics and other life sciences companies to drive the discovery and development of new therapeutics and diagnostics by leveraging VUMC’s unparalleled genomic and bioinformatics resources. Elizabeth Ann oversees client partnerships and leads NashBio’s scientific and clinical teams on successful project execution.
 
@@ -26,3 +30,18 @@ Elizabeth Ann holds a BS in Physics from The University of the South (Sewanee) a
 
 - Talk: Friday, June 11th at 1 p.m.
 - [Recording of presentation](https://sewanee-edu.zoom.us/rec/share/dJm-Dpy6Wc9QvHEpWVZ0ypt8frLyKkgWOFXDv33scQ67trEcEa1kpd9UrX4mgdcm.ixh_AU9rg1hpn0w2?startTime=1623434231000)
+
+## Jurnell Cockhren &nbsp; [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/jurnellcockhren/)
+
+Jurnell Cockhren moved to Nashville after graduating from Sewanee with a B.S. in Mathematics & Physics in 2007. Jurnell's experience combines his Neuroscience, Physics, and Astronomy contributions with his passion for writing software. While working at the Vanderbilt Vision Research Center, he developed a talent for writing software to help researchers further understand the human visual system. His contributions landed in journals like 'Attention, Perception, & Psychophysics' and 'Child Psychology and Psychiatry.' In 2018, one article received the 'Clifford T. Morgan' award for Best Article from the Psychonomic Society.
+
+Learning how to manage sizable networks in the cloud at Atiba Inc and Concert Genetics Inc helped him in his entrepreneurial pursuits. He founded Civic Hacker, LLC, a for-profit Benefit-Company that researches technology's influence on improving the lived experiences of vulnerable communities. Jurnell advises organizations that seek to make a positive social impact and allyship with vulnerable communities. He enjoys assisting groups like The Kauffman Foundation and the STEAM Advisory Board for Metropolitan Nashville Public Schools. Affiliations include The Black Codes, Python Software Foundation, and Code for Nashville. Additionally, Jurnell is a cofounder of Black In Tech Nashville.
+
+## Rayid Ghani
+
+Bio will be here soon!
+
+## Deirdre Mulligan
+
+Bio will be here soon!
+
