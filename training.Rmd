@@ -30,3 +30,10 @@ output:
   - [Monday morning, 6/14/21](https://sewanee-edu.zoom.us/rec/share/NTqs8kLxJ5sRNjejGnlPIPrYNmSP6s2sqGVqoCZiC_EuSO0ZkYE8JfKe-Ni5FyT_.GLznNa6wsZxWCdQE) : group work
   - [Monday afternoon, 6/14/21](https://sewanee-edu.zoom.us/rec/share/UyCSrx-U9WRownUYtFZ1FjqdWyiyS7b_YMZBwGRLlawcHmdHJh6X3XK_1lHBIBCR.LeGMidbsWkaXI_u_) : getting started with `ggplot`
   - [Tuesday morning, 6/15/21](https://sewanee-edu.zoom.us/rec/share/eO76cDTtYFDUTwb_Q9s70Fv56-afHNK19yM0UthQ8MbOcrRiqOKeC_M6U-8K7Cw.HTDoNfLadHxb9ZSu) : more with `ggplot` ; presentation by Pradip Malde and Stephen Alvarez on computational photography projects
+  - [Tuesday afternoon, 6/15/21](https://sewanee-edu.zoom.us/rec/share/mDT87gB_I_lfvZsA9igxe7vGBTj4XFMHOgKCDyK36pXdlsNI6aYXwjZetSVBBImd.K1zIrbIVTaYxUkMK)
+  - [Wednesday morning, 6/16/21](https://sewanee-edu.zoom.us/rec/share/cyXYf1ZVFH6XNu3sj4ZNOuu5INAuRTK5KQk1OiDeYdWs7yywLZG12i1P1It8u42s.bi6Jt0MToQBvCMRy)
+  - [Wednesday afternoon, 6/16/21](https://sewanee-edu.zoom.us/rec/share/ObLatpxz_CZageSv9tO5v1eEwczBxySV5MG3sJ9Fj7z7Ynur2L6rIywKTltS5Y5j.4DTz3a4rTERosTcJ)
+  - [Thursday morning, 6/17/21](https://sewanee-edu.zoom.us/rec/share/In141ssrJVgruKtqrhfZPPbxsO5n9aBLh5ANUXF_VuE6MEsI88jrC_u3SSkLqIbh.LnWVonNIXd-js8xZ) : presentation by Thrive Regional Partnership
+  - [Thursday afternoon, 6/17/21](https://sewanee-edu.zoom.us/rec/share/oyiZzTG0Cjr9zCa7ykk7VsKrZHFRE24BrwpMl-xI4J2nkybwKaUobTnEa73Kf4U.myRMDz5JJTLKTQhV)
+  - [Friday morning, 6/18/21](https://sewanee-edu.zoom.us/rec/share/6WDO9xjm3bZ-ugIzSSqt9QNuntuywvR-drU56zTuL9znOIJlbyN2O1PYfdy3oet9.axwasMcQgaMQnGuk) 
+  - [Friday afternoon, 6/18/21]()
